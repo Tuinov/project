@@ -1,0 +1,28 @@
+[
+
+    {
+    "id":1,
+    "role":"admin",
+    "email": "admin@mail",
+    "password": "admin"
+    },
+    {
+    "id":2,
+    "role":"worker",
+    "email": "ashot@mail",
+    "password": "ashot"
+    },
+    {
+    "id":3,
+    "role":"worker",
+    "email": "1@1",
+    "password": "1"
+    },
+    {
+    "id":4,
+    "role":"fired",
+    "email": "2@2",
+    "password": "2"
+    }
+
+]
